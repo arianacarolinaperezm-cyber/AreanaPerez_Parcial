@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MisComidas" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/naranja</item>
+        <item name="colorPrimaryVariant">@color/naranja</item>
+        <item name="colorOnPrimary">@color/blanco</item>
+        <item name="colorSecondary">@color/naranja</item>
+        <item name="colorSecondaryVariant">@color/naranja</item>
+        <item name="android:statusBarColor">@color/crema</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/rosa_muy_claro</item>
+        <item name="colorSurface">@color/blanco</item>
+    </style>
+</resources>
